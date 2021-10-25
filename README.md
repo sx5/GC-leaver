@@ -3,6 +3,7 @@ Work in progress...
 _______________________________
 
 > Quick way to leave group chats
+
 > Friendly user interface
 _______________________________
 
